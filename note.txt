@@ -1,0 +1,4 @@
+npx create-expo-app@latest --template blank ./
+
+npm install react-native-svg
+npm install @ui-kitten/components @eva-design/eva
